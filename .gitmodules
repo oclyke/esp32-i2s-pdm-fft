@@ -1,0 +1,3 @@
+[submodule "main/esp32-fft"]
+	path = main/esp32-fft
+	url = https://github.com/fakufaku/esp32-fft
